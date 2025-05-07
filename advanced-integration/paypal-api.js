@@ -2,7 +2,7 @@ import fetch from "node-fetch";
 
 // set some important variables
 const { PAYPAL_CLIENT_ID, PAYPAL_CLIENT_SECRET, PAYPAL_MERCHANT_ID , BASE_URL } = process.env;
-// const sandbox = "https://api-m.sandbox.paypal.com";
+const sandbox = "https://api-m.sandbox.paypal.com";
 // const production = "https://api-m.paypal.com";
 const base = `${BASE_URL}`
 
