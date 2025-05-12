@@ -146,7 +146,7 @@ function getGoogleTransactionInfo(countryCode) {
       }
     ],
     countryCode: countryCode,
-    currencyCode: "USD",
+    currencyCode: "UGX",
     totalPriceStatus: "FINAL",
     totalPrice: "0.10",
     totalPriceLabel: "Total"
