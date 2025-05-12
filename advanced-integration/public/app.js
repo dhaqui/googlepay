@@ -146,7 +146,7 @@ function getGoogleTransactionInfo(countryCode) {
       }
     ],
     countryCode: countryCode,
-    currencyCode: "BWP",
+    currencyCode: "RWF",
     totalPriceStatus: "FINAL",
     totalPrice: "10",
     totalPriceLabel: "Total"
