@@ -146,7 +146,7 @@ function getGoogleTransactionInfo(countryCode) {
       }
     ],
     countryCode: countryCode,
-    currencyCode: "LSL",
+    currencyCode: "BWP",
     totalPriceStatus: "FINAL",
     totalPrice: "10",
     totalPriceLabel: "Total"
