@@ -146,7 +146,7 @@ function getGoogleTransactionInfo(countryCode) {
       }
     ],
     countryCode: countryCode,
-    currencyCode: "RWF",
+    currencyCode: "GHS",
     totalPriceStatus: "FINAL",
     totalPrice: "10",
     totalPriceLabel: "Total"
