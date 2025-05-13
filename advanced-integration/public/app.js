@@ -146,7 +146,7 @@ function getGoogleTransactionInfo(countryCode) {
       }
     ],
     countryCode: countryCode,
-    currencyCode: "NGN",
+    currencyCode: "TND",
     totalPriceStatus: "FINAL",
     totalPrice: "10",
     totalPriceLabel: "Total"
