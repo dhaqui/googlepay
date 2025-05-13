@@ -146,7 +146,7 @@ function getGoogleTransactionInfo(countryCode) {
       }
     ],
     countryCode: countryCode,
-    currencyCode: "MWK",
+    currencyCode: "ZMW",
     totalPriceStatus: "FINAL",
     totalPrice: "10",
     totalPriceLabel: "Total"
